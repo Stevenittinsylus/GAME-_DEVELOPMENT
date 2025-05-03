@@ -10,7 +10,7 @@ To  implement the Bresenham’s  algorithm for ellipse using a c coding.
 
 **ALGORITHM :**
 
-Step 1 : Start.\n
+Step 1 : Start.
 Step 2 : Initialize the graphics header files and functions.
 Step 3 : Declare the required variables and functions.
 Step 4 : Get the co-ordinates and radius of the ellipse.
